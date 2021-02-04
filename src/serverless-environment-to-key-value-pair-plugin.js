@@ -54,7 +54,8 @@ class EnvironmentToKeyValuePairPlugin {
     this.options = options;
 
     this.hooks = {
-      'after:package:initialize': this.hook.bind(this)
+      'after:package:initialize': this.hook.bind(this),
+      'before:print:print': this.hook.bind(this)
     };
   }
 
