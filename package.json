@@ -1,0 +1,7 @@
+{
+  "name": "serverless-environment-to-key-value-pair-plugin",
+  "version": "1.0.0",
+  "description": "Serverless plugin used to easily add environment variables to ContainerDefinitions",
+  "author": "env0",
+  "license": "MIT"
+}
