@@ -1,0 +1,1 @@
+# serverless-environment-to-key-value-pair-plugin
